@@ -17,7 +17,7 @@ Java C C++ Python HTML CSS JavaScript SQL Git GitHub
 🏥 Smart Hospital Management System
 🌐 Portfolio Website
 ✈️ Travel & Tourism Website
-📜 Certificate Generator## 🎯 Career Goal
+📜 Certificate Generator
 
 
 
