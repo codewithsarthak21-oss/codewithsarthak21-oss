@@ -9,68 +9,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 ---
 
 ## 🛠️ My Skills
-
-### 👨‍💻 Programming Languages
-
-* ☕ Java
-* 💻 C
-* ⚡ C++
-* 🐍 Python
-* 🌐 JavaScript
-
-### 🌐 Web Development
-
-* HTML
-* CSS
-* JavaScript
-* Responsive Web Design
-
-### 🗄️ Database & Backend
-
-* MySQL
-* Firebase
-* Flask
-* SQL
-
-### 🤖 AI / Machine Learning
-
-* Machine Learning
-* Computer Vision
-* Facial Emotion Recognition
-* Eye Tracking
-* MediaPipe
-* TensorFlow / Keras
-
-### 📚 Core Computer Science
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS
-* Computer Networks
-* Operating Systems
-* Software Testing
-
-### 🔧 Tools
-
-* Git
-* GitHub
-* VS Code
-* Android Studio
-* Linux
-
----
-
-## 📖 Currently Learning
-
-* ☕ Advanced Java
-* 🌱 Spring & Spring Boot
-* 🧠 Machine Learning & AI
-* 📊 Data Structures & Algorithms
-* 🌐 Backend Development
-* 💻 System Design
-* 🐙 Advanced Git & GitHub
-
----
+Java C C++ Python HTML CSS JavaScript SQL Git GitHub
 
 ## 🚀 Featured Projects
 
