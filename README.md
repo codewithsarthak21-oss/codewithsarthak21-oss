@@ -93,6 +93,7 @@ A frontend project recreating key elements of the Amazon shopping interface to p
 - 🤝 Class Representative — class coordination and communication with faculty
 - 💻 Participant in technical events, coding competitions, and hackathons
 - ☁️ Exploring cloud computing and developer learning programs
+- ☁️ AWS Builder Center — Future Builders Connect, Pune — Attended a developer community program focused on cloud computing, emerging technologies, and learning         opportunities within the AWS ecosystem.
 
 ---
 
