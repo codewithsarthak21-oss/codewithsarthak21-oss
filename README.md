@@ -1,4 +1,4 @@
-<center># 👋 Hi, I'm Sarthak Ganesh Jadhav</center>
+# 👋 <center>Hi, I'm Sarthak Ganesh Jadhav</center>
 
 ### Aspiring Software Engineer | Java Developer | Full-Stack Developer | AI/ML Enthusiast
 
